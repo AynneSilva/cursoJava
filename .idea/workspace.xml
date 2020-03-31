@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dad6d9c8-d4ba-44f3-b5dc-4d9b4c981758" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/exercicio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/cursoLogica/calculando.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cursoLogica/calculando.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculando.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculando.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/estruturaDecControle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/estruturaDecControle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +27,7 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.estruturaDecControle">
+  <component name="RunManager" selected="Application.exercicio">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="cursoLogica" />
@@ -54,13 +52,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="exercicio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio" />
+      <module name="cursoLogica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.calculando" />
       <item itemvalue="Application.estruturaDecControle" />
+      <item itemvalue="Application.exercicio" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.exercicio" />
         <item itemvalue="Application.estruturaDecControle" />
         <item itemvalue="Application.calculando" />
         <item itemvalue="Application.Main" />
@@ -81,22 +88,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1306" height="153" key="GridCell.Tab.0.bottom" timestamp="1585634215787">
+    <state width="1306" height="153" key="GridCell.Tab.0.bottom" timestamp="1585657532176">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1306" height="153" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1585634215787" />
-    <state width="1306" height="153" key="GridCell.Tab.0.center" timestamp="1585634215786">
+    <state width="1306" height="153" key="GridCell.Tab.0.bottom/0.0.1366.720@0.0.1366.720" timestamp="1585657532176" />
+    <state width="1306" height="153" key="GridCell.Tab.0.center" timestamp="1585657532175">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1306" height="153" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1585634215786" />
-    <state width="1306" height="153" key="GridCell.Tab.0.left" timestamp="1585634215786">
+    <state width="1306" height="153" key="GridCell.Tab.0.center/0.0.1366.720@0.0.1366.720" timestamp="1585657532175" />
+    <state width="1306" height="153" key="GridCell.Tab.0.left" timestamp="1585657532175">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1306" height="153" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1585634215786" />
-    <state width="1306" height="153" key="GridCell.Tab.0.right" timestamp="1585634215787">
+    <state width="1306" height="153" key="GridCell.Tab.0.left/0.0.1366.720@0.0.1366.720" timestamp="1585657532175" />
+    <state width="1306" height="153" key="GridCell.Tab.0.right" timestamp="1585657532176">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state width="1306" height="153" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1585634215787" />
+    <state width="1306" height="153" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1585657532176" />
     <state x="225" y="149" key="com.intellij.ide.util.TipDialog" timestamp="1585656120624">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
