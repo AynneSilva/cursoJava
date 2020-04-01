@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dad6d9c8-d4ba-44f3-b5dc-4d9b4c981758" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/restoDaDivisao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/raio.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/cursoLogica/exercicio1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/cursoLogica/exercicio1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,19 +29,9 @@
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="RunManager" selected="Application.exercicio1">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="cursoLogica" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="calculando" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calculando" />
+  <component name="RunManager" selected="Application.raio">
+    <configuration name="While" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="While" />
       <module name="cursoLogica" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -66,20 +58,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="raio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="raio" />
+      <module name="cursoLogica" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.calculando" />
       <item itemvalue="Application.estruturaDecControle" />
       <item itemvalue="Application.exercicio" />
       <item itemvalue="Application.exercicio1" />
+      <item itemvalue="Application.While" />
+      <item itemvalue="Application.raio" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.raio" />
+        <item itemvalue="Application.While" />
         <item itemvalue="Application.exercicio1" />
         <item itemvalue="Application.exercicio" />
         <item itemvalue="Application.estruturaDecControle" />
-        <item itemvalue="Application.calculando" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -113,9 +112,9 @@
       <screen x="0" y="0" width="1366" height="720" />
     </state>
     <state width="1306" height="152" key="GridCell.Tab.0.right/0.0.1366.720@0.0.1366.720" timestamp="1585658982591" />
-    <state x="225" y="149" key="com.intellij.ide.util.TipDialog" timestamp="1585656120624">
+    <state x="225" y="149" key="com.intellij.ide.util.TipDialog" timestamp="1585707445281">
       <screen x="0" y="0" width="1366" height="720" />
     </state>
-    <state x="225" y="149" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1585656120624" />
+    <state x="225" y="149" key="com.intellij.ide.util.TipDialog/0.0.1366.720@0.0.1366.720" timestamp="1585707445281" />
   </component>
 </project>
